@@ -68,8 +68,6 @@ namespace ConsoleApplication1
             Console.WriteLine("количество столбцов: " + mas.GetLength(1));
 
             Console.ReadLine();
-
-            //ОТПРАВИТЬ КОД РЕБЯТАМ!!!
         }
     }
 }
